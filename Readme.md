@@ -1,6 +1,7 @@
 # ECEN758 project
 
 ## Overview
+The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. We have used Machine Learning models, ResNet-18, CCT and Multimodel based ResNet-18 and BiLSTM to improve the predictions.
 
 Code submission for ECEN758 project. Includes the code structure and instructions on training and evaluating the model.
 
